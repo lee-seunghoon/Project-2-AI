@@ -6,7 +6,7 @@
 
 #### 👨🏻‍🤝‍👨🏻 Team Name : `핫딜노마드족`
 
-#### ✍ Project subject : `Shopee - Price Match Guarantee`
+#### ✍ Project subject : `Shopee - Best Price Guarantee Image Matching`
 
 
 
@@ -18,10 +18,9 @@
 
 #### :briefcase: Roll
 
-> - 탐색적 데이터 분석(EDA)
-> - `Title` Data AI Model
-> - `Image_phash` Data AI Model
-> - `Image` Data AI Model
+> - 탐색적 데이터 분석(EDA) 
+> - `Image` & `Image_phash` Data AI Model
+> - `Title` Data - NLP
 > - Pipeline 구성 및 Model 통합
 
 
@@ -31,3 +30,11 @@
 > - 중간 model 완성 : 2021.04.16(금)
 > - 최종 submission : 2021.04.24(토)
 > - 발표일자 : 2021.04.27(화)
+
+
+
+#### ✍ 4.16 Feedback
+
+> - 탐색적 데이터 분석(EDA) 대략 완성
+> - 이미지 분류 모델 & ObjectDetection 구현 중 (SIFT, CNN, ArcFace)
+> - NLP 개념 & 모델 숙지 (Tfidf, BERT)
